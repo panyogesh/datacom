@@ -37,7 +37,7 @@
 #### Details of the program
 ---
 - program is stored as storage_quickstart.go
-- go run storage_quickstart.go
+- go run basic/storage_quickstart.go
 
 ```
 Note: There might be additional authentication required
